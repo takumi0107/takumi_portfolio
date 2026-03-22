@@ -61,7 +61,7 @@ export default function Hero() {
 
           <p style={{ fontSize: 14, color: "#9ca3af", lineHeight: 1.75, maxWidth: 400, marginBottom: 40 }}>
             Building AI-powered BIM data pipelines with Python &amp; Django.<br />
-            Open to <span style={{ color: "#9ca3af" }}>Paris · Lyon · Sophia Antipolis · Montpellier</span>.
+            Open to <span style={{ color: "#9ca3af" }}>anywhere in France</span>.
           </p>
 
           {/* Buttons */}

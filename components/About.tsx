@@ -16,7 +16,7 @@ const profile = [
   { key: "NAME",        val: "Takumi Kotobuki" },
   { key: "AGE",         val: "23" },
   { key: "NATIONALITY", val: "Japanese" },
-  { key: "LOCATION",    val: "Tokyo → France (Paris · Lyon · Sophia Antipolis · Montpellier)" },
+  { key: "LOCATION",    val: "Tokyo → France (open to anywhere)" },
   { key: "ROLE",        val: "Backend Engineer — BIM & AI Data" },
   { key: "VISA",        val: "Carte Passeport Talent (eligible)" },
   { key: "EDUCATION",   val: "B.Sc. Computer Science, Monash University (1st Class Honours)" },

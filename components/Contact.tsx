@@ -16,7 +16,7 @@ const rows = [
   { key: "EMAIL",    val: "t7kotobuki@gmail.com",                       href: "mailto:t7kotobuki@gmail.com" },
   { key: "LINKEDIN", val: "linkedin.com/in/takumi-kotobuki-683a58282",   href: "https://www.linkedin.com/in/takumi-kotobuki-683a58282/", external: true },
   { key: "GITHUB",   val: "github.com/takumi0107",                       href: "https://github.com/takumi0107", external: true },
-  { key: "LOCATION", val: "Paris · Lyon · Sophia Antipolis · Montpellier" },
+  { key: "LOCATION", val: "Anywhere in France" },
 ];
 
 export default function Contact() {
